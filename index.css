@@ -72,7 +72,12 @@ footer {
 
 }
 
-.projects {
+.about-info{
+    margin-top: 10px;
+    line-height: 1.5em;
+}
+
+.projects, .education {
     width: 100%;
     float: left;
     /* border: 1px solid black; */
@@ -139,4 +144,23 @@ footer {
     background-color: teal;
     width: 100%;
     height: 100%;
+}
+
+/* testing */
+
+.bar-container{
+    background-color: beige;
+    width: 80%;
+    /* height: 40%; */
+    /* float: left; */
+}
+
+.html-percentage, .css-percentage, .javascript-percentage {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+.education-card{
+    margin-top: 1em;
 }
