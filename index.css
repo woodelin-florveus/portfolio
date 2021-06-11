@@ -57,7 +57,14 @@ body, h1, h2, h3, h4 {
 footer {
     width: 100%;
     float: left;
-    background-color: red;
+    background-color: #333333;
+    text-align: center;
+    color: white;
+}
+
+.contact-title{
+    padding: 10px;
+    
 }
 
 /* inner right page */
@@ -95,7 +102,7 @@ footer {
 }
 
 .project-card{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 100%;
     float: left;
     
