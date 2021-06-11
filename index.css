@@ -133,7 +133,7 @@ footer {
 #html-progress:after{
     content: '';
     display: block;
-    background-color: teal;
+    background-color: #e44d26;
     width: 50%;
     height: 100%;
 }
@@ -149,10 +149,8 @@ footer {
 /* testing */
 
 .bar-container{
-    background-color: beige;
-    width: 80%;
-    /* height: 40%; */
-    /* float: left; */
+    background-color:lightgray;
+    width: 100%;
 }
 
 .html-percentage, .css-percentage, .javascript-percentage {
