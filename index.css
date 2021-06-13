@@ -179,3 +179,8 @@ footer {
 .education-card{
     margin-top: 1em;
 }
+
+.fab {
+    font-size: 2em;
+    padding: 5px;
+}
