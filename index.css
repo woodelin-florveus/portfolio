@@ -184,3 +184,12 @@ footer {
     font-size: 2em;
     padding: 5px;
 }
+
+.skills-set li {
+    margin-top: 1.5em;
+    list-style: none;
+}
+
+.skills-set{
+    padding-left: 10px;
+}
